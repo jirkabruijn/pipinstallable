@@ -7,7 +7,7 @@ setup(
     url = 'git@github.com:jirkabruijn/pipinstallable.git',
     author = 'Jiri Bruijn',
     author_email = 'no@address.com',
-    license = '',
+    license = 'unlicense',
     packages=['pipinstallable'],
     zip_safe=False
 )
