@@ -1,2 +1,2 @@
-def test_package():
-    print('Package works!')
+def test_module():
+    print('Module works!')
