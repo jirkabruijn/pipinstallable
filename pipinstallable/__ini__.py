@@ -1,10 +1,9 @@
-'''
+"""
 
 The ini file
 
-'''
+"""
 
-def test_package():
-    print('Package works!')
+__version__ = "0.0.4"
 
-__version__ = "0.0.3"
+__author__ = 'Jirka Bruijn'
