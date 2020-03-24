@@ -9,4 +9,4 @@ Then try:
 
 &gt;&gt;&gt; import pipinstallable<br>
 &gt;&gt;&gt; pipinstallable.test_this()<br>
-&gt;&gt;&gt; test.test_module()
+&gt;&gt;&gt; pipinstallable.test_module()
