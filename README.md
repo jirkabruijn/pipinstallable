@@ -7,5 +7,6 @@ $ pip install git+https://github.com/jirkabruijn/pipinstallable.git
 
 Then try:
 
->>> import pipinstallable
->>> test.test_package()
+&gt;&gt;&gt; import pipinstallable<br>
+&gt;&gt;&gt; pipinstallable.test_this()<br>
+&gt;&gt;&gt; test.test_package()
