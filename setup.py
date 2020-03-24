@@ -1,8 +1,9 @@
 from setuptools import setup
+exec(open('pipinstallable/version.py').read())
 
 setup(
     name = 'pipinstallable',
-    version = '0.0.5',
+    version=__version__,
     description = 'A test package to test pipinstallables',
     url = 'https://github.com/jirkabruijn/pipinstallable.git',
     author = 'Jiri Bruijn',
