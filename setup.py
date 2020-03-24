@@ -2,12 +2,12 @@ from setuptools import setup
 
 setup(
     name = 'pipinstallable',
-    version = '0.0.4',
+    version = '0.0.5',
     description = 'A test package to test pipinstallables',
     url = 'https://github.com/jirkabruijn/pipinstallable.git',
     author = 'Jiri Bruijn',
     author_email = 'jirka.bruijn@gmail.com',
-    license = 'unlicense',
+    license = 'unlicensed',
     packages=['pipinstallable'],
     zip_safe=False
 )
